@@ -73,3 +73,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Weights
+old_weights*
+
