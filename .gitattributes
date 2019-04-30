@@ -1,1 +1,2 @@
 *.h5f filter=lfs diff=lfs merge=lfs -text
+weights_invaders/*.h5f filter=lfs diff=lfs merge=lfs -text
